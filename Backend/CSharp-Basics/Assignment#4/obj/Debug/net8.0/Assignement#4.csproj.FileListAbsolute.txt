@@ -1,0 +1,14 @@
+E:\Full Stack Course\Backend\.NET\C#\Assignement#4\bin\Debug\net8.0\Assignement#4.exe
+E:\Full Stack Course\Backend\.NET\C#\Assignement#4\bin\Debug\net8.0\Assignement#4.deps.json
+E:\Full Stack Course\Backend\.NET\C#\Assignement#4\bin\Debug\net8.0\Assignement#4.runtimeconfig.json
+E:\Full Stack Course\Backend\.NET\C#\Assignement#4\bin\Debug\net8.0\Assignement#4.dll
+E:\Full Stack Course\Backend\.NET\C#\Assignement#4\bin\Debug\net8.0\Assignement#4.pdb
+E:\Full Stack Course\Backend\.NET\C#\Assignement#4\obj\Debug\net8.0\Assignement#4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Full Stack Course\Backend\.NET\C#\Assignement#4\obj\Debug\net8.0\Assignement#4.AssemblyInfoInputs.cache
+E:\Full Stack Course\Backend\.NET\C#\Assignement#4\obj\Debug\net8.0\Assignement#4.AssemblyInfo.cs
+E:\Full Stack Course\Backend\.NET\C#\Assignement#4\obj\Debug\net8.0\Assignement#4.csproj.CoreCompileInputs.cache
+E:\Full Stack Course\Backend\.NET\C#\Assignement#4\obj\Debug\net8.0\Assignement#4.dll
+E:\Full Stack Course\Backend\.NET\C#\Assignement#4\obj\Debug\net8.0\refint\Assignement#4.dll
+E:\Full Stack Course\Backend\.NET\C#\Assignement#4\obj\Debug\net8.0\Assignement#4.pdb
+E:\Full Stack Course\Backend\.NET\C#\Assignement#4\obj\Debug\net8.0\Assignement#4.genruntimeconfig.cache
+E:\Full Stack Course\Backend\.NET\C#\Assignement#4\obj\Debug\net8.0\ref\Assignement#4.dll
