@@ -1,0 +1,49 @@
+
+.explain-text{
+    text-align: center;
+    padding: 10px 5px;
+    border-radius:10px;
+    color: #fff;
+    background-color: gray;
+}
+.item{
+    display: inline-block;
+    width: 24.8%; /*width must be 25% */
+    background-color: #000;
+    text-align: center;
+    color: #fff;
+}
+
+.item img{
+    width: 100%;
+}
+
+
+/* Apply Float Concept to fix inline-block problem (white spaces)*/
+
+/* Floating made to fix display inline-block problems 
+    but makes another problem : 
+    any element after last float element will be floated to 
+    to fix this problem u must use property called : clear
+    after the last floated element 
+*/
+.item-1{
+    float: left;
+    width: 15%; /*width must be 25% */
+    background-color: #000;
+    text-align: center;
+    color: #fff;
+}
+
+.item-1 img{
+    width: 100%;
+}
+.clear-fix{
+    clear: left;
+}
+/* Note :
+    if set the float elements in the left 
+    u must set the clear proberty at the left to
+    now u fix the float problem , but in 2025 is not (recommended) 
+    i think u will use it in (special cases)
+*/
