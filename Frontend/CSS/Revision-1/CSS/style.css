@@ -47,3 +47,35 @@
     now u fix the float problem , but in 2025 is not (recommended) 
     i think u will use it in (special cases)
 */
+.item-3{
+    width: 80%;
+    height: 300px;
+    background-color: #09c;
+    margin-left:auto;
+    /* take the left space */
+    margin-right:auto ;
+    /* take the right space */
+}
+
+/* how to center the div using marign */
+
+.container{
+    background-color: tomato;
+    margin: 10px auto;
+    width: 60%;
+    /* text-align: center;  */
+}
+.container button{
+    /* display: block;  */
+    margin: auto; 
+    /* u cant apply margin:auto; on inline elements 
+        like a button
+
+        Using margin: auto; to center inline elements directly
+        is not effective because inline elements do not respect
+        the margin: auto; property for centering. Inline elements
+        are designed to flow with the text and do not have a fixed
+        width or height that can be centered using margin: auto;.
+    */
+}
+
