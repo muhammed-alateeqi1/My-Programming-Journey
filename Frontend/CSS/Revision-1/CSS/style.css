@@ -39,7 +39,7 @@
     width: 100%;
 }
 .clear-fix{
-    clear: left;
+    clear: both;
 }
 /* Note :
     if set the float elements in the left 
@@ -63,14 +63,17 @@
     background-color: tomato;
     margin: 10px auto;
     width: 60%;
-    /* text-align: center;  */
+    text-align: center; 
+}
+.container img {
+    width: 100%;
 }
 .container button{
     /* display: block;  */
     margin: auto; 
     /* u cant apply margin:auto; on inline elements 
         like a button
-
+        note :
         Using margin: auto; to center inline elements directly
         is not effective because inline elements do not respect
         the margin: auto; property for centering. Inline elements
@@ -79,3 +82,16 @@
     */
 }
 
+/* another exercise */
+.gallery{
+    width: 80%;
+    margin: auto;
+}
+.gallery-item{
+    width: 25%;
+    float: left;
+}
+.gallery-item img{
+    width: 100%;
+    display: block;
+}
